@@ -1,4 +1,4 @@
 mountpoints:
   /:
     url: https://drive.google.com/drive/u/3/my-drive
-    type: markup
+    type: drive
