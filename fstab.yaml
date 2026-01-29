@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/u/3/my-drive
+    url: https://drive.google.com/drive/u/0/folders/1PL-Vvb5I1jPgBMkxJrsVmNdIwrP1NGke
     type: drive
